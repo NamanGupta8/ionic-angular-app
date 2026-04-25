@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import "tailwindcss";
+
+@theme {
+  /* Define your custom colors (e.g., bg-brand) */
+  --color-brand: #3880ff;
+  --color-accent: #5260ff;
+
+  /* Typography (e.g., font-display) */
+  --font-display: "Inter", sans-serif;
+
+  /* Custom Spacing (e.g., p-13) */
+  --spacing-13: 3.25rem;
+}
